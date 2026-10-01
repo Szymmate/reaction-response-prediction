@@ -1,0 +1,30 @@
+{
+  "seed": 20261001,
+  "people": 20000,
+  "events": 119498,
+  "labels": 5587,
+  "coverage": 0.046753920567708246,
+  "observation_auc": 0.6716571086005606,
+  "observation_log_loss": 0.18063649729831238,
+  "propensity_quantiles": {
+    "min": 0.010293391618930638,
+    "p01": 0.01433957714812075,
+    "p05": 0.01701138091581461,
+    "p50": 0.03928798076051521,
+    "p95": 0.09217074052435957,
+    "max": 0.1444500394399418
+  },
+  "population_propensity_below_01": 0.0,
+  "timestamp_min": "2023-02-01 12:00:00",
+  "timestamp_max": "2050-05-25 14:00:00",
+  "audit_date": "2026-10-01",
+  "future_recorded_outcomes": 4833,
+  "inference": "Differences establish observable selection, not MAR; observation AUC cannot identify outcome-dependent nonresponse.",
+  "weighting_assumptions": [
+    "Outcomes independent of observation conditional on measured X (unverifiable MAR)",
+    "Positivity in target population",
+    "Accurate observation model and stable label definitions"
+  ],
+  "caveats": "No event dates: selection is confounded with unknown maturity. Cross-fitted weights are diagnostic, not a population calibration certificate.",
+  "weighted_model": "personality_no_age"
+}

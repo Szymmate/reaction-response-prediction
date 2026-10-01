@@ -1,0 +1,27 @@
+{
+  "seed": 20261001,
+  "files": {
+    "data/persons.parquet": "f9f39be97ad15d2d71412426a025eafb7d2ac0fd0596d8c6226b6743e30dc1a4",
+    "data/responses.parquet": "8848871165e84ac9761b67a8baa7df25dddb031f62160ac42960c62761953a66",
+    "data/situations.parquet": "42d361c541945fdcd84e483bd5432b3969dc36c1d2621de64cb0f6da136cb935",
+    "results/splits/final_inner_folds.csv": "45c1e1dd54b8319a62f57bf029c43a6953b8f4447835d3ea8caa1a5911f6c191",
+    "results/splits/inner_folds.csv": "356398ea5d0cd637d153a06e05e84b53a3b23e6d4c07644506ac27daed3da01d",
+    "results/splits/outer_folds.csv": "6641ca9f77319e3eda3e51741c05cc31af734e4a619842041bff17a399212ebf",
+    "results/splits/person_splits.csv": "2fdd6354f76198d083449904646a9856861905dc52cf6a0d41db63b4c3fc4d6e"
+  },
+  "source": "Reproducible seed-specific employee partitions; development only",
+  "partition_rule": "SHA256(seed:person_id): 60% train, 15% tune, 10% calibration, 15% test",
+  "folds": "StratifiedGroupKFold, shuffled employee groups",
+  "seed_streams": {
+    "outer": "seed + repeat",
+    "inner": "seed + 1000 + 5*repeat + fold",
+    "final_inner": "seed + 2000"
+  },
+  "development_counts": {
+    "labeled_events": 3318,
+    "labeled_people": 2891,
+    "pool_events": 70756,
+    "unlabeled_events": 67438
+  },
+  "independence": "Changing partitions does not remove prior development exposure."
+}

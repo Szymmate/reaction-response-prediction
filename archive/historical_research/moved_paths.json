@@ -1,0 +1,27 @@
+{
+  "moves": {
+    "src/train.py": "archive/historical_research/scripts/train_supervised_control.py",
+    "src/semi_supervised.py": "archive/historical_research/scripts/train_unlabeled_models.py",
+    "src/representations.py": "archive/historical_research/scripts/representations.py",
+    "src/review_ssl.py": "archive/historical_research/scripts/compare_unlabeled_models.py",
+    "results/supervised_control": "archive/historical_research/results/supervised_control",
+    "results/supervised_control_revised": "archive/historical_research/results/supervised_control_revised",
+    "results/unlabeled_experiments": "archive/historical_research/results/unlabeled_experiments",
+    "results/unlabeled_comparison.json": "archive/historical_research/results/unlabeled_comparison.json",
+    "results/unlabeled_comparison_revised.json": "archive/historical_research/results/unlabeled_comparison_revised.json",
+    "figures/unlabeled_comparison.png": "archive/historical_research/figures/unlabeled_comparison.png",
+    "figures/unlabeled_comparison.svg": "archive/historical_research/figures/unlabeled_comparison.svg",
+    "requirements-research.txt": "archive/historical_research/requirements.txt",
+    "src/study.py": "src/train_model.py",
+    "src/revision_study.py": "src/compare_training_strategies.py",
+    "src/evaluate.py": "src/metrics.py",
+    "archive/historical_research/scripts/train.py": "archive/historical_research/scripts/train_supervised_control.py",
+    "archive/historical_research/scripts/semi_supervised.py": "archive/historical_research/scripts/train_unlabeled_models.py",
+    "archive/historical_research/scripts/review_ssl.py": "archive/historical_research/scripts/compare_unlabeled_models.py"
+  },
+  "extracted_functions": {
+    "src/evaluate.py": "archive/historical_research/scripts/evaluate_research.py"
+  },
+  "note": "Original fit protocols retain original paths and hashes. Moves do not assert original sources match the current implementation.",
+  "renaming_note": "Entry points now distinguish final-model training, matched strategy comparisons and archived controls. metrics.py retains the shared evaluation functions."
+}

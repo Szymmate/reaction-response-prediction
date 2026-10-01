@@ -1,0 +1,69 @@
+{
+  "started_utc": "2026-10-01T18:45:51.941376+00:00",
+  "purpose": "Seed-specific development replication; not independent confirmation",
+  "arms": [
+    "supervised",
+    "dae_labeled",
+    "dae_pooled",
+    "scarf_labeled",
+    "scarf_pooled",
+    "soft_labeled",
+    "soft_pooled"
+  ],
+  "repeats": 10,
+  "outer_folds": 5,
+  "seed": 20261001,
+  "downstream": "Fixed unweighted LightGBM hyperparameters; research feature contract includes wellness",
+  "selection": "No settings/checkpoints selected: all fixed before this replication. Historical exploratory development is acknowledged.",
+  "dae": {
+    "latent": 16,
+    "steps": 2000,
+    "batch": 512,
+    "numeric_corruption": 0.15,
+    "categorical_corruption": 0.1,
+    "event_level": true
+  },
+  "scarf": {
+    "latent": 8,
+    "steps": 200,
+    "batch": 128,
+    "corruption": 0.3,
+    "temperature": 0.2,
+    "static_unique_people": true
+  },
+  "soft": {
+    "teacher": "raw supervised LightGBM",
+    "teacher_temperature": 1.0,
+    "all_eligible_unlabeled": true,
+    "total_pseudo_weight": "0.3 times true-label weight",
+    "controls": "Identical custom soft-CE learner B and C"
+  },
+  "primary_comparisons": [
+    "dae_pooled - dae_labeled",
+    "scarf_pooled - scarf_labeled",
+    "soft_pooled - soft_labeled"
+  ],
+  "primary_metric": "multiclass log_loss",
+  "success": "Preliminary screen: log-loss delta <= -.002 and 98.333% upper bound < 0 against both matched and ordinary supervised controls; Brier 95% upper delta <= .005. F1 is descriptive. Common calibration, cohort safeguards and independent evaluation are required before adoption.",
+  "uncertainty": "6000 paired employee bootstrap; separate new replication family, no global search correction",
+  "assigned_reserved_populations_scored": false,
+  "sources": {
+    "src/review_ssl.py": "efb45a42dbd9cb18e0cdc007f0edbdb641eaf50cda89203ad721ac4c7e0e4eb8",
+    "src/checks.py": "62f96767ed8305ba4ebad51e64ff014b79206f0b74635c207b4044609988d0b0",
+    "src/build_report.py": "0a8e7b43a8a28e0dbaaabc609d8037a36091ec6ed8f9d95ac8984a9cb4b5bac6",
+    "src/report_content.py": "eeac0439f6aef6a44286a61756b6ad4d7250e954e9a396fc25141cacb536840d",
+    "src/predict.py": "a5424592f902a0939421635e1eff2f2ead9d8e5acb1095fc13b19bf9fceed975",
+    "src/report_figures.py": "18e30b9a09d41e16e258fea6cfbdc6f69a2dbaf850e798b7ff390c3ef4cdceea",
+    "src/audit.py": "a31428c54f4b81d5174dde163649d549cec212719d29d4a63b8d72298e5b63f5",
+    "src/selection_audit.py": "601dfd05f33d37ec6899cff431daa7cdf55ccd6ca5580d86371baed0f616f19a",
+    "src/prospective.py": "adbb5e30c318361065c9f5037904321422abb3993b561a808c407a6fca7b15c7",
+    "src/model.py": "5b1b149903f870ce4bdf410b583df21093c87ea75b6633495ae3f171e423329b",
+    "src/features.py": "345aa2a53f1395c30802903dcf63cf354413620da2a36a26381cd0834f819deb",
+    "src/study.py": "ae0fd4fdaf987800706e02bd233af9e0c4e875cb26d75b511d1ff320d41eabfd",
+    "src/train.py": "38a86fe20b89a52175b1b4b63354dcf901ca50af8840733fa840c889e9bb9151",
+    "src/make_splits.py": "1e7b3c182aec7f918a872b8819d624c3a92338e51622289304bcc7d8bb382ed6",
+    "src/representations.py": "2537e5a7bff1c99a382a770267e0aff80ef9bc59fa3f9b4643e17d733c151c24",
+    "src/evaluate.py": "1013181d056cf6aa72037b92c9ae0e735d3d1ee00b94dd7a5a9afd9939c00f7a",
+    "src/semi_supervised.py": "1ee3d9881ab2fd5e3aa0d6ae65a1845750cb40333cd9b4f4ef06578a859a442b"
+  }
+}

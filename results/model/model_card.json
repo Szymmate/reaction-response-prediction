@@ -1,0 +1,63 @@
+{
+  "arm": "personality_no_age",
+  "model_sha256": "f5d23f99587b32f07a9abb39c4ead68f460c19a43f9e6bb7e66e58babdd3356b",
+  "temperature": 1.0531672544869342,
+  "class_order": [
+    "completed_effective",
+    "completed_ineffective",
+    "partial",
+    "dropped_out",
+    "declined"
+  ],
+  "seed": 20261001,
+  "trained_on": "seed-specific training partition only",
+  "feature_contract": {
+    "numeric": [
+      "workload_index",
+      "team_size",
+      "manager_support_score",
+      "tenure_months",
+      "engagement_q01",
+      "engagement_q02",
+      "engagement_q03",
+      "engagement_q04",
+      "engagement_q05",
+      "engagement_q06",
+      "engagement_q07",
+      "engagement_q08",
+      "engagement_q09",
+      "engagement_q10",
+      "engagement_q11",
+      "engagement_q12",
+      "engagement_q13",
+      "engagement_q14",
+      "engagement_q15",
+      "engagement_q16",
+      "engagement_q17",
+      "engagement_q18",
+      "engagement_q19",
+      "engagement_q20",
+      "engagement_q21",
+      "engagement_q22",
+      "engagement_q23",
+      "engagement_q24",
+      "ocean_E",
+      "ocean_N",
+      "ocean_A",
+      "ocean_C",
+      "ocean_O"
+    ],
+    "categorical": [
+      "module_topic",
+      "recommended_intervention",
+      "context_domain",
+      "season",
+      "job_family",
+      "region"
+    ]
+  },
+  "intended_use": "Research and approved shadow evaluation of default interventions only",
+  "approved_for_live_decisions": false,
+  "evaluation_required": "new people absent from the entire historical dataset, pre-outcome predictions, mature labels, adjudicated outcomes and feature-as-of timestamps",
+  "protocol_sha256": "e1f6d5606c0edaa2cf9e23a6127762547ed4bbdad340f3ecbfa1437d32fac66b"
+}

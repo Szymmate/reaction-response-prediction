@@ -1,0 +1,58 @@
+{
+  "started_utc": "2026-10-01T19:43:20.847947+00:00",
+  "model": {
+    "n_estimators": 100,
+    "num_leaves": 7,
+    "min_child_samples": 40,
+    "learning_rate": 0.05,
+    "reg_lambda": 10.0,
+    "random_state": 20261001,
+    "n_jobs": 1,
+    "objective": "multiclass",
+    "num_class": 5,
+    "deterministic": true,
+    "force_col_wise": true,
+    "verbosity": -1
+  },
+  "seed": 20261001,
+  "method": "scalar temperature scaling of log probabilities",
+  "bounds": [
+    0.25,
+    4.0
+  ],
+  "selection": "Minimize inner OOF log loss; one predeclared method, no outer selection",
+  "repeats": 10,
+  "outer_folds": 5,
+  "inner_folds": 3,
+  "class_order": [
+    "completed_effective",
+    "completed_ineffective",
+    "partial",
+    "dropped_out",
+    "declined"
+  ],
+  "primary_metric": "log_loss",
+  "secondary": [
+    "Brier",
+    "ECE"
+  ],
+  "limitations": "Repeated development, not fresh confirmation; calibration trained on smaller inner models may transfer imperfectly to full refit",
+  "assigned_reserved_populations_scored": false,
+  "sources": {
+    "src/review_ssl.py": "6c3372f58b7b7f63b9d68f468b6379b7b90eb00440ef8f8686f7dac65566bd64",
+    "src/checks.py": "075b4aa4bedc32b3283c40204945e4a64326496396f5d0ebc5ea3f7015986f89",
+    "src/revision_study.py": "2c5601e93344b2ac1eb06fed1cc6f2f064b1ca3f0c163980165c7f9dafa2f8e7",
+    "src/predict.py": "a5424592f902a0939421635e1eff2f2ead9d8e5acb1095fc13b19bf9fceed975",
+    "src/audit.py": "a31428c54f4b81d5174dde163649d549cec212719d29d4a63b8d72298e5b63f5",
+    "src/selection_audit.py": "601dfd05f33d37ec6899cff431daa7cdf55ccd6ca5580d86371baed0f616f19a",
+    "src/prospective.py": "36b134a15c3125099118269c4f5ec37c2e42faa565bdac38afc9402a558f8117",
+    "src/model.py": "5b1b149903f870ce4bdf410b583df21093c87ea75b6633495ae3f171e423329b",
+    "src/features.py": "64dde1ae9c688642f31960b39906a2807ae774b06a1b6f82241733ba73168596",
+    "src/study.py": "ae0fd4fdaf987800706e02bd233af9e0c4e875cb26d75b511d1ff320d41eabfd",
+    "src/train.py": "088949e00882bf7b6a8c2995ad74a53dc09554fcf1f485476bbafd93e6577118",
+    "src/make_splits.py": "1e7b3c182aec7f918a872b8819d624c3a92338e51622289304bcc7d8bb382ed6",
+    "src/representations.py": "2537e5a7bff1c99a382a770267e0aff80ef9bc59fa3f9b4643e17d733c151c24",
+    "src/evaluate.py": "1013181d056cf6aa72037b92c9ae0e735d3d1ee00b94dd7a5a9afd9939c00f7a",
+    "src/semi_supervised.py": "1ee3d9881ab2fd5e3aa0d6ae65a1845750cb40333cd9b4f4ef06578a859a442b"
+  }
+}

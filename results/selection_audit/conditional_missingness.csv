@@ -1,0 +1,741 @@
+slice,group,feature,people,missing
+age_cohort,"[0.0, 30.0)",age,3676,0.0
+age_cohort,"[0.0, 30.0)",tenure_months,3676,0.0323721436343852
+age_cohort,"[0.0, 30.0)",ocean_E,3676,0.061207834602829164
+age_cohort,"[0.0, 30.0)",ocean_N,3676,0.05821545157780196
+age_cohort,"[0.0, 30.0)",ocean_A,3676,0.06147986942328618
+age_cohort,"[0.0, 30.0)",ocean_C,3676,0.061207834602829164
+age_cohort,"[0.0, 30.0)",ocean_O,3676,0.0647442872687704
+age_cohort,"[0.0, 30.0)",engagement_q01,3676,0.0720892274211099
+age_cohort,"[0.0, 30.0)",engagement_q02,3676,0.07290533188248095
+age_cohort,"[0.0, 30.0)",engagement_q03,3676,0.07752992383025027
+age_cohort,"[0.0, 30.0)",engagement_q04,3676,0.07725788900979326
+age_cohort,"[0.0, 30.0)",engagement_q05,3676,0.06964091403699674
+age_cohort,"[0.0, 30.0)",engagement_q06,3676,0.07453754080522307
+age_cohort,"[0.0, 30.0)",engagement_q07,3676,0.06800870511425462
+age_cohort,"[0.0, 30.0)",engagement_q08,3676,0.07399347116430903
+age_cohort,"[0.0, 30.0)",engagement_q09,3676,0.0750816104461371
+age_cohort,"[0.0, 30.0)",engagement_q10,3676,0.07236126224156691
+age_cohort,"[0.0, 30.0)",engagement_q11,3676,0.06882480957562569
+age_cohort,"[0.0, 30.0)",engagement_q12,3676,0.07807399347116431
+age_cohort,"[0.0, 30.0)",engagement_q13,3676,0.0750816104461371
+age_cohort,"[0.0, 30.0)",engagement_q14,3676,0.0824265505984766
+age_cohort,"[0.0, 30.0)",engagement_q15,3676,0.0720892274211099
+age_cohort,"[0.0, 30.0)",engagement_q16,3676,0.07807399347116431
+age_cohort,"[0.0, 30.0)",engagement_q17,3676,0.0720892274211099
+age_cohort,"[0.0, 30.0)",engagement_q18,3676,0.07236126224156691
+age_cohort,"[0.0, 30.0)",engagement_q19,3676,0.07290533188248095
+age_cohort,"[0.0, 30.0)",engagement_q20,3676,0.06964091403699674
+age_cohort,"[0.0, 30.0)",engagement_q21,3676,0.07100108813928183
+age_cohort,"[0.0, 30.0)",engagement_q22,3676,0.07127312295973885
+age_cohort,"[0.0, 30.0)",engagement_q23,3676,0.07236126224156691
+age_cohort,"[0.0, 30.0)",engagement_q24,3676,0.07399347116430903
+age_cohort,"[0.0, 30.0)",burnout_composite,3676,0.3142002176278564
+age_cohort,"[0.0, 30.0)",wellness_optin,3676,0.0
+age_cohort,"[0.0, 30.0)",wearable_hrv_mean_30d,3676,0.41376496191512513
+age_cohort,"[0.0, 30.0)",wearable_sleep_var_30d,3676,0.4102285092491839
+age_cohort,"[0.0, 30.0)",wearable_steps_mean_30d,3676,0.41539717083786726
+age_cohort,"[0.0, 30.0)",wearable_active_min_30d,3676,0.41376496191512513
+age_cohort,"[30.0, 40.0)",age,4634,0.0
+age_cohort,"[30.0, 40.0)",tenure_months,4634,0.033448424687095385
+age_cohort,"[30.0, 40.0)",ocean_E,4634,0.06991799741044454
+age_cohort,"[30.0, 40.0)",ocean_N,4634,0.06258092360811394
+age_cohort,"[30.0, 40.0)",ocean_A,4634,0.06171773845489858
+age_cohort,"[30.0, 40.0)",ocean_C,4634,0.0649546827794562
+age_cohort,"[30.0, 40.0)",ocean_O,4634,0.06214933103150626
+age_cohort,"[30.0, 40.0)",engagement_q01,4634,0.0759602934829521
+age_cohort,"[30.0, 40.0)",engagement_q02,4634,0.0759602934829521
+age_cohort,"[30.0, 40.0)",engagement_q03,4634,0.07876564523090203
+age_cohort,"[30.0, 40.0)",engagement_q04,4634,0.08200258955545965
+age_cohort,"[30.0, 40.0)",engagement_q05,4634,0.07639188605955978
+age_cohort,"[30.0, 40.0)",engagement_q06,4634,0.07682347863616745
+age_cohort,"[30.0, 40.0)",engagement_q07,4634,0.08049201553733276
+age_cohort,"[30.0, 40.0)",engagement_q08,4634,0.06732844195079844
+age_cohort,"[30.0, 40.0)",engagement_q09,4634,0.07984462667242123
+age_cohort,"[30.0, 40.0)",engagement_q10,4634,0.06797583081570997
+age_cohort,"[30.0, 40.0)",engagement_q11,4634,0.07660768234786362
+age_cohort,"[30.0, 40.0)",engagement_q12,4634,0.07315494173500216
+age_cohort,"[30.0, 40.0)",engagement_q13,4634,0.07401812688821752
+age_cohort,"[30.0, 40.0)",engagement_q14,4634,0.08135520069054812
+age_cohort,"[30.0, 40.0)",engagement_q15,4634,0.08049201553733276
+age_cohort,"[30.0, 40.0)",engagement_q16,4634,0.08092360811394043
+age_cohort,"[30.0, 40.0)",engagement_q17,4634,0.07250755287009064
+age_cohort,"[30.0, 40.0)",engagement_q18,4634,0.07488131204143289
+age_cohort,"[30.0, 40.0)",engagement_q19,4634,0.07380233059991369
+age_cohort,"[30.0, 40.0)",engagement_q20,4634,0.07142857142857142
+age_cohort,"[30.0, 40.0)",engagement_q21,4634,0.073370738023306
+age_cohort,"[30.0, 40.0)",engagement_q22,4634,0.07639188605955978
+age_cohort,"[30.0, 40.0)",engagement_q23,4634,0.0759602934829521
+age_cohort,"[30.0, 40.0)",engagement_q24,4634,0.07078118256365991
+age_cohort,"[30.0, 40.0)",burnout_composite,4634,0.30168321104876994
+age_cohort,"[30.0, 40.0)",wellness_optin,4634,0.0
+age_cohort,"[30.0, 40.0)",wearable_hrv_mean_30d,4634,0.4706517047906776
+age_cohort,"[30.0, 40.0)",wearable_sleep_var_30d,4634,0.46676737160120846
+age_cohort,"[30.0, 40.0)",wearable_steps_mean_30d,4634,0.4706517047906776
+age_cohort,"[30.0, 40.0)",wearable_active_min_30d,4634,0.46417781614156234
+age_cohort,"[40.0, 50.0)",age,4516,0.0
+age_cohort,"[40.0, 50.0)",tenure_months,4516,0.0283436669619132
+age_cohort,"[40.0, 50.0)",ocean_E,4516,0.05868024800708592
+age_cohort,"[40.0, 50.0)",ocean_N,4516,0.06200177147918512
+age_cohort,"[40.0, 50.0)",ocean_A,4516,0.07019486271036315
+age_cohort,"[40.0, 50.0)",ocean_C,4516,0.07019486271036315
+age_cohort,"[40.0, 50.0)",ocean_O,4516,0.0670947741364039
+age_cohort,"[40.0, 50.0)",engagement_q01,4516,0.07816651904340124
+age_cohort,"[40.0, 50.0)",engagement_q02,4516,0.07617360496014172
+age_cohort,"[40.0, 50.0)",engagement_q03,4516,0.07528786536758193
+age_cohort,"[40.0, 50.0)",engagement_q04,4516,0.070859167404783
+age_cohort,"[40.0, 50.0)",engagement_q05,4516,0.08104517271922054
+age_cohort,"[40.0, 50.0)",engagement_q06,4516,0.07063773250664304
+age_cohort,"[40.0, 50.0)",engagement_q07,4516,0.0841452612931798
+age_cohort,"[40.0, 50.0)",engagement_q08,4516,0.07927369353410098
+age_cohort,"[40.0, 50.0)",engagement_q09,4516,0.07263064658990256
+age_cohort,"[40.0, 50.0)",engagement_q10,4516,0.06266607617360496
+age_cohort,"[40.0, 50.0)",engagement_q11,4516,0.07617360496014172
+age_cohort,"[40.0, 50.0)",engagement_q12,4516,0.07506643046944199
+age_cohort,"[40.0, 50.0)",engagement_q13,4516,0.07949512843224092
+age_cohort,"[40.0, 50.0)",engagement_q14,4516,0.06421612046058459
+age_cohort,"[40.0, 50.0)",engagement_q15,4516,0.07484499557130203
+age_cohort,"[40.0, 50.0)",engagement_q16,4516,0.07661647475642161
+age_cohort,"[40.0, 50.0)",engagement_q17,4516,0.07705934455270151
+age_cohort,"[40.0, 50.0)",engagement_q18,4516,0.06554472984942426
+age_cohort,"[40.0, 50.0)",engagement_q19,4516,0.07218777679362268
+age_cohort,"[40.0, 50.0)",engagement_q20,4516,0.07019486271036315
+age_cohort,"[40.0, 50.0)",engagement_q21,4516,0.07196634189548273
+age_cohort,"[40.0, 50.0)",engagement_q22,4516,0.0775022143489814
+age_cohort,"[40.0, 50.0)",engagement_q23,4516,0.07307351638618247
+age_cohort,"[40.0, 50.0)",engagement_q24,4516,0.07351638618246235
+age_cohort,"[40.0, 50.0)",burnout_composite,4516,0.3051372896368468
+age_cohort,"[40.0, 50.0)",wellness_optin,4516,0.0
+age_cohort,"[40.0, 50.0)",wearable_hrv_mean_30d,4516,0.5230292294065545
+age_cohort,"[40.0, 50.0)",wearable_sleep_var_30d,4516,0.5221434898139947
+age_cohort,"[40.0, 50.0)",wearable_steps_mean_30d,4516,0.5230292294065545
+age_cohort,"[40.0, 50.0)",wearable_active_min_30d,4516,0.5221434898139947
+age_cohort,"[50.0, inf)",age,6790,0.0
+age_cohort,"[50.0, inf)",tenure_months,6790,0.029896907216494847
+age_cohort,"[50.0, inf)",ocean_E,6790,0.06362297496318114
+age_cohort,"[50.0, inf)",ocean_N,6790,0.06597938144329897
+age_cohort,"[50.0, inf)",ocean_A,6790,0.06170839469808542
+age_cohort,"[50.0, inf)",ocean_C,6790,0.06715758468335788
+age_cohort,"[50.0, inf)",ocean_O,6790,0.06509572901325479
+age_cohort,"[50.0, inf)",engagement_q01,6790,0.0829160530191458
+age_cohort,"[50.0, inf)",engagement_q02,6790,0.07422680412371134
+age_cohort,"[50.0, inf)",engagement_q03,6790,0.0780559646539028
+age_cohort,"[50.0, inf)",engagement_q04,6790,0.07098674521354933
+age_cohort,"[50.0, inf)",engagement_q05,6790,0.07628865979381444
+age_cohort,"[50.0, inf)",engagement_q06,6790,0.0711340206185567
+age_cohort,"[50.0, inf)",engagement_q07,6790,0.08055964653902799
+age_cohort,"[50.0, inf)",engagement_q08,6790,0.07407952871870398
+age_cohort,"[50.0, inf)",engagement_q09,6790,0.07849779086892489
+age_cohort,"[50.0, inf)",engagement_q10,6790,0.07820324005891016
+age_cohort,"[50.0, inf)",engagement_q11,6790,0.07496318114874816
+age_cohort,"[50.0, inf)",engagement_q12,6790,0.07614138438880706
+age_cohort,"[50.0, inf)",engagement_q13,6790,0.07334315169366716
+age_cohort,"[50.0, inf)",engagement_q14,6790,0.0748159057437408
+age_cohort,"[50.0, inf)",engagement_q15,6790,0.0731958762886598
+age_cohort,"[50.0, inf)",engagement_q16,6790,0.07687776141384389
+age_cohort,"[50.0, inf)",engagement_q17,6790,0.07540500736377025
+age_cohort,"[50.0, inf)",engagement_q18,6790,0.07569955817378497
+age_cohort,"[50.0, inf)",engagement_q19,6790,0.06995581737849779
+age_cohort,"[50.0, inf)",engagement_q20,6790,0.07673048600883653
+age_cohort,"[50.0, inf)",engagement_q21,6790,0.07393225331369661
+age_cohort,"[50.0, inf)",engagement_q22,6790,0.07540500736377025
+age_cohort,"[50.0, inf)",engagement_q23,6790,0.07334315169366716
+age_cohort,"[50.0, inf)",engagement_q24,6790,0.07511045655375552
+age_cohort,"[50.0, inf)",burnout_composite,6790,0.2970544918998527
+age_cohort,"[50.0, inf)",wellness_optin,6790,0.0
+age_cohort,"[50.0, inf)",wearable_hrv_mean_30d,6790,0.6103092783505155
+age_cohort,"[50.0, inf)",wearable_sleep_var_30d,6790,0.6104565537555229
+age_cohort,"[50.0, inf)",wearable_steps_mean_30d,6790,0.6083946980854197
+age_cohort,"[50.0, inf)",wearable_active_min_30d,6790,0.612960235640648
+age_cohort,missing,age,384,1.0
+age_cohort,missing,tenure_months,384,0.015625
+age_cohort,missing,ocean_E,384,0.059895833333333336
+age_cohort,missing,ocean_N,384,0.059895833333333336
+age_cohort,missing,ocean_A,384,0.0546875
+age_cohort,missing,ocean_C,384,0.06510416666666667
+age_cohort,missing,ocean_O,384,0.07291666666666667
+age_cohort,missing,engagement_q01,384,0.09114583333333333
+age_cohort,missing,engagement_q02,384,0.06770833333333333
+age_cohort,missing,engagement_q03,384,0.1015625
+age_cohort,missing,engagement_q04,384,0.078125
+age_cohort,missing,engagement_q05,384,0.059895833333333336
+age_cohort,missing,engagement_q06,384,0.08854166666666667
+age_cohort,missing,engagement_q07,384,0.078125
+age_cohort,missing,engagement_q08,384,0.057291666666666664
+age_cohort,missing,engagement_q09,384,0.06770833333333333
+age_cohort,missing,engagement_q10,384,0.0546875
+age_cohort,missing,engagement_q11,384,0.08333333333333333
+age_cohort,missing,engagement_q12,384,0.0859375
+age_cohort,missing,engagement_q13,384,0.09635416666666667
+age_cohort,missing,engagement_q14,384,0.052083333333333336
+age_cohort,missing,engagement_q15,384,0.0703125
+age_cohort,missing,engagement_q16,384,0.109375
+age_cohort,missing,engagement_q17,384,0.07552083333333333
+age_cohort,missing,engagement_q18,384,0.078125
+age_cohort,missing,engagement_q19,384,0.07291666666666667
+age_cohort,missing,engagement_q20,384,0.0703125
+age_cohort,missing,engagement_q21,384,0.057291666666666664
+age_cohort,missing,engagement_q22,384,0.0703125
+age_cohort,missing,engagement_q23,384,0.08333333333333333
+age_cohort,missing,engagement_q24,384,0.078125
+age_cohort,missing,burnout_composite,384,0.3255208333333333
+age_cohort,missing,wellness_optin,384,0.0
+age_cohort,missing,wearable_hrv_mean_30d,384,0.546875
+age_cohort,missing,wearable_sleep_var_30d,384,0.5494791666666666
+age_cohort,missing,wearable_steps_mean_30d,384,0.5442708333333334
+age_cohort,missing,wearable_active_min_30d,384,0.5338541666666666
+job_family,engineering,age,2668,0.022113943028485756
+job_family,engineering,tenure_months,2668,0.025487256371814093
+job_family,engineering,ocean_E,2668,0.06296851574212893
+job_family,engineering,ocean_N,2668,0.06334332833583209
+job_family,engineering,ocean_A,2668,0.06746626686656672
+job_family,engineering,ocean_C,2668,0.07008995502248876
+job_family,engineering,ocean_O,2668,0.06446776611694154
+job_family,engineering,engagement_q01,2668,0.06221889055472264
+job_family,engineering,engagement_q02,2668,0.060719640179910044
+job_family,engineering,engagement_q03,2668,0.06221889055472264
+job_family,engineering,engagement_q04,2668,0.05584707646176912
+job_family,engineering,engagement_q05,2668,0.05734632683658171
+job_family,engineering,engagement_q06,2668,0.05734632683658171
+job_family,engineering,engagement_q07,2668,0.06971514242878561
+job_family,engineering,engagement_q08,2668,0.0595952023988006
+job_family,engineering,engagement_q09,2668,0.05772113943028486
+job_family,engineering,engagement_q10,2668,0.050974512743628186
+job_family,engineering,engagement_q11,2668,0.05734632683658171
+job_family,engineering,engagement_q12,2668,0.06784107946026986
+job_family,engineering,engagement_q13,2668,0.07158920539730135
+job_family,engineering,engagement_q14,2668,0.06371814092953523
+job_family,engineering,engagement_q15,2668,0.05547226386806597
+job_family,engineering,engagement_q16,2668,0.06634182908545727
+job_family,engineering,engagement_q17,2668,0.06221889055472264
+job_family,engineering,engagement_q18,2668,0.05134932533733134
+job_family,engineering,engagement_q19,2668,0.05322338830584707
+job_family,engineering,engagement_q20,2668,0.05547226386806597
+job_family,engineering,engagement_q21,2668,0.056596701649175414
+job_family,engineering,engagement_q22,2668,0.06484257871064468
+job_family,engineering,engagement_q23,2668,0.06184407796101949
+job_family,engineering,engagement_q24,2668,0.055097451274362816
+job_family,engineering,burnout_composite,2668,0.2856071964017991
+job_family,engineering,wellness_optin,2668,0.0
+job_family,engineering,wearable_hrv_mean_30d,2668,0.44302848575712145
+job_family,engineering,wearable_sleep_var_30d,2668,0.44377811094452774
+job_family,engineering,wearable_steps_mean_30d,2668,0.44565217391304346
+job_family,engineering,wearable_active_min_30d,2668,0.44940029985007496
+job_family,finance,age,2493,0.02206177296430004
+job_family,finance,tenure_months,2493,0.029281989570798236
+job_family,finance,ocean_E,2493,0.06538307260328921
+job_family,finance,ocean_N,2493,0.06578419574809466
+job_family,finance,ocean_A,2493,0.06578419574809466
+job_family,finance,ocean_C,2493,0.07220216606498195
+job_family,finance,ocean_O,2493,0.06538307260328921
+job_family,finance,engagement_q01,2493,0.05695948656237465
+job_family,finance,engagement_q02,2493,0.05856397914159647
+job_family,finance,engagement_q03,2493,0.06417970316887285
+job_family,finance,engagement_q04,2493,0.057360609707180106
+job_family,finance,engagement_q05,2493,0.056558363417569195
+job_family,finance,engagement_q06,2493,0.056558363417569195
+job_family,finance,engagement_q07,2493,0.06498194945848375
+job_family,finance,engagement_q08,2493,0.06257521058965103
+job_family,finance,engagement_q09,2493,0.05856397914159647
+job_family,finance,engagement_q10,2493,0.05334937825912555
+job_family,finance,engagement_q11,2493,0.055756117127958284
+job_family,finance,engagement_q12,2493,0.06297633373445648
+job_family,finance,engagement_q13,2493,0.0645808263136783
+job_family,finance,engagement_q14,2493,0.06377858002406739
+job_family,finance,engagement_q15,2493,0.06337745687926194
+job_family,finance,engagement_q16,2493,0.05896510228640193
+job_family,finance,engagement_q17,2493,0.06177296430004011
+job_family,finance,engagement_q18,2493,0.06819093461692739
+job_family,finance,engagement_q19,2493,0.06016847172081829
+job_family,finance,engagement_q20,2493,0.059366225431207384
+job_family,finance,engagement_q21,2493,0.052948255114320095
+job_family,finance,engagement_q22,2493,0.06417970316887285
+job_family,finance,engagement_q23,2493,0.05856397914159647
+job_family,finance,engagement_q24,2493,0.061371841155234655
+job_family,finance,burnout_composite,2493,0.2992378660248696
+job_family,finance,wellness_optin,2493,0.0
+job_family,finance,wearable_hrv_mean_30d,2493,0.5250701965503409
+job_family,finance,wearable_sleep_var_30d,2493,0.5266746891295627
+job_family,finance,wearable_steps_mean_30d,2493,0.5290814279983955
+job_family,finance,wearable_active_min_30d,2493,0.5226634576815082
+job_family,hr,age,2485,0.01609657947686117
+job_family,hr,tenure_months,2485,0.030583501006036216
+job_family,hr,ocean_E,2485,0.05593561368209256
+job_family,hr,ocean_N,2485,0.06519114688128773
+job_family,hr,ocean_A,2485,0.06800804828973843
+job_family,hr,ocean_C,2485,0.05754527162977867
+job_family,hr,ocean_O,2485,0.06680080482897384
+job_family,hr,engagement_q01,2485,0.0635814889336016
+job_family,hr,engagement_q02,2485,0.061971830985915494
+job_family,hr,engagement_q03,2485,0.05835010060362173
+job_family,hr,engagement_q04,2485,0.05593561368209256
+job_family,hr,engagement_q05,2485,0.059154929577464786
+job_family,hr,engagement_q06,2485,0.05835010060362173
+job_family,hr,engagement_q07,2485,0.06519114688128773
+job_family,hr,engagement_q08,2485,0.05995975855130785
+job_family,hr,engagement_q09,2485,0.060764587525150904
+job_family,hr,engagement_q10,2485,0.05432595573440644
+job_family,hr,engagement_q11,2485,0.05674044265593561
+job_family,hr,engagement_q12,2485,0.06317907444668008
+job_family,hr,engagement_q13,2485,0.05432595573440644
+job_family,hr,engagement_q14,2485,0.0635814889336016
+job_family,hr,engagement_q15,2485,0.0635814889336016
+job_family,hr,engagement_q16,2485,0.06237424547283702
+job_family,hr,engagement_q17,2485,0.05955734406438632
+job_family,hr,engagement_q18,2485,0.05472837022132797
+job_family,hr,engagement_q19,2485,0.061971830985915494
+job_family,hr,engagement_q20,2485,0.05754527162977867
+job_family,hr,engagement_q21,2485,0.0579476861167002
+job_family,hr,engagement_q22,2485,0.05754527162977867
+job_family,hr,engagement_q23,2485,0.05674044265593561
+job_family,hr,engagement_q24,2485,0.059154929577464786
+job_family,hr,burnout_composite,2485,0.3094567404426559
+job_family,hr,wellness_optin,2485,0.0
+job_family,hr,wearable_hrv_mean_30d,2485,0.5388329979879276
+job_family,hr,wearable_sleep_var_30d,2485,0.5400402414486921
+job_family,hr,wearable_steps_mean_30d,2485,0.5360160965794769
+job_family,hr,wearable_active_min_30d,2485,0.538430583501006
+job_family,legal,age,2460,0.017479674796747967
+job_family,legal,tenure_months,2460,0.030894308943089432
+job_family,legal,ocean_E,2460,0.06219512195121951
+job_family,legal,ocean_N,2460,0.051626016260162604
+job_family,legal,ocean_A,2460,0.05813008130081301
+job_family,legal,ocean_C,2460,0.06666666666666667
+job_family,legal,ocean_O,2460,0.06219512195121951
+job_family,legal,engagement_q01,2460,0.061788617886178863
+job_family,legal,engagement_q02,2460,0.056910569105691054
+job_family,legal,engagement_q03,2460,0.06056910569105691
+job_family,legal,engagement_q04,2460,0.06666666666666667
+job_family,legal,engagement_q05,2460,0.06260162601626017
+job_family,legal,engagement_q06,2460,0.056910569105691054
+job_family,legal,engagement_q07,2460,0.06585365853658537
+job_family,legal,engagement_q08,2460,0.05609756097560976
+job_family,legal,engagement_q09,2460,0.06016260162601626
+job_family,legal,engagement_q10,2460,0.05813008130081301
+job_family,legal,engagement_q11,2460,0.05975609756097561
+job_family,legal,engagement_q12,2460,0.06300813008130081
+job_family,legal,engagement_q13,2460,0.06341463414634146
+job_family,legal,engagement_q14,2460,0.06016260162601626
+job_family,legal,engagement_q15,2460,0.06666666666666667
+job_family,legal,engagement_q16,2460,0.06341463414634146
+job_family,legal,engagement_q17,2460,0.05894308943089431
+job_family,legal,engagement_q18,2460,0.0540650406504065
+job_family,legal,engagement_q19,2460,0.052845528455284556
+job_family,legal,engagement_q20,2460,0.06341463414634146
+job_family,legal,engagement_q21,2460,0.06747967479674796
+job_family,legal,engagement_q22,2460,0.05569105691056911
+job_family,legal,engagement_q23,2460,0.06260162601626017
+job_family,legal,engagement_q24,2460,0.06382113821138212
+job_family,legal,burnout_composite,2460,0.3130081300813008
+job_family,legal,wellness_optin,2460,0.0
+job_family,legal,wearable_hrv_mean_30d,2460,0.5532520325203252
+job_family,legal,wearable_sleep_var_30d,2460,0.552439024390244
+job_family,legal,wearable_steps_mean_30d,2460,0.5577235772357724
+job_family,legal,wearable_active_min_30d,2460,0.5560975609756098
+job_family,marketing,age,2465,0.019066937119675456
+job_family,marketing,tenure_months,2465,0.03610547667342799
+job_family,marketing,ocean_E,2465,0.06734279918864097
+job_family,marketing,ocean_N,2465,0.06206896551724138
+job_family,marketing,ocean_A,2465,0.06612576064908722
+job_family,marketing,ocean_C,2465,0.061663286004056794
+job_family,marketing,ocean_O,2465,0.0640973630831643
+job_family,marketing,engagement_q01,2465,0.0693711967545639
+job_family,marketing,engagement_q02,2465,0.055983772819472616
+job_family,marketing,engagement_q03,2465,0.06125760649087221
+job_family,marketing,engagement_q04,2465,0.06531440162271805
+job_family,marketing,engagement_q05,2465,0.060851926977687626
+job_family,marketing,engagement_q06,2465,0.05963488843813387
+job_family,marketing,engagement_q07,2465,0.05436105476673428
+job_family,marketing,engagement_q08,2465,0.058823529411764705
+job_family,marketing,engagement_q09,2465,0.05841784989858012
+job_family,marketing,engagement_q10,2465,0.06693711967545639
+job_family,marketing,engagement_q11,2465,0.06572008113590264
+job_family,marketing,engagement_q12,2465,0.06125760649087221
+job_family,marketing,engagement_q13,2465,0.05557809330628803
+job_family,marketing,engagement_q14,2465,0.053955375253549695
+job_family,marketing,engagement_q15,2465,0.06369168356997972
+job_family,marketing,engagement_q16,2465,0.05963488843813387
+job_family,marketing,engagement_q17,2465,0.05720081135902637
+job_family,marketing,engagement_q18,2465,0.056795131845841784
+job_family,marketing,engagement_q19,2465,0.05273833671399594
+job_family,marketing,engagement_q20,2465,0.06247464503042596
+job_family,marketing,engagement_q21,2465,0.05557809330628803
+job_family,marketing,engagement_q22,2465,0.06044624746450304
+job_family,marketing,engagement_q23,2465,0.056795131845841784
+job_family,marketing,engagement_q24,2465,0.05720081135902637
+job_family,marketing,burnout_composite,2465,0.30831643002028397
+job_family,marketing,wellness_optin,2465,0.0
+job_family,marketing,wearable_hrv_mean_30d,2465,0.5403651115618662
+job_family,marketing,wearable_sleep_var_30d,2465,0.5318458417849898
+job_family,marketing,wearable_steps_mean_30d,2465,0.5371196754563895
+job_family,marketing,wearable_active_min_30d,2465,0.532657200811359
+job_family,operations,age,2437,0.02256873204759951
+job_family,operations,tenure_months,2437,0.031185884283955682
+job_family,operations,ocean_E,2437,0.0672958555601149
+job_family,operations,ocean_N,2437,0.06114074681986048
+job_family,operations,ocean_A,2437,0.06647517439474764
+job_family,operations,ocean_C,2437,0.0718096019696348
+job_family,operations,ocean_O,2437,0.058268362741075094
+job_family,operations,engagement_q01,2437,0.06032006565449323
+job_family,operations,engagement_q02,2437,0.058268362741075094
+job_family,operations,engagement_q03,2437,0.06811653672548215
+job_family,operations,engagement_q04,2437,0.049651210504718914
+job_family,operations,engagement_q05,2437,0.06770619614279852
+job_family,operations,engagement_q06,2437,0.054985638079606075
+job_family,operations,engagement_q07,2437,0.05375461633155519
+job_family,operations,engagement_q08,2437,0.05785802215839146
+job_family,operations,engagement_q09,2437,0.06565449322938038
+job_family,operations,engagement_q10,2437,0.05703734099302421
+job_family,operations,engagement_q11,2437,0.062371768567911365
+job_family,operations,engagement_q12,2437,0.06524415264669675
+job_family,operations,engagement_q13,2437,0.049651210504718914
+job_family,operations,engagement_q14,2437,0.06852687730816578
+job_family,operations,engagement_q15,2437,0.05457529749692244
+job_family,operations,engagement_q16,2437,0.07016823963890029
+job_family,operations,engagement_q17,2437,0.05785802215839146
+job_family,operations,engagement_q18,2437,0.06032006565449323
+job_family,operations,engagement_q19,2437,0.05211325400082068
+job_family,operations,engagement_q20,2437,0.05703734099302421
+job_family,operations,engagement_q21,2437,0.05293393516618793
+job_family,operations,engagement_q22,2437,0.059089043906442346
+job_family,operations,engagement_q23,2437,0.05416495691423882
+job_family,operations,engagement_q24,2437,0.060730406237176855
+job_family,operations,burnout_composite,2437,0.3102174805088223
+job_family,operations,wellness_optin,2437,0.0
+job_family,operations,wearable_hrv_mean_30d,2437,0.5465736561345917
+job_family,operations,wearable_sleep_var_30d,2437,0.54411161263849
+job_family,operations,wearable_steps_mean_30d,2437,0.542880590890439
+job_family,operations,wearable_active_min_30d,2437,0.54411161263849
+job_family,product,age,2519,0.014688368400158794
+job_family,product,tenure_months,2519,0.03255260023818976
+job_family,product,ocean_E,2519,0.0611353711790393
+job_family,product,ocean_N,2519,0.06431123461691148
+job_family,product,ocean_A,2519,0.05835649067090115
+job_family,product,ocean_C,2519,0.06550218340611354
+job_family,product,ocean_O,2519,0.0666931321953156
+job_family,product,engagement_q01,2519,0.06510520047637952
+job_family,product,engagement_q02,2519,0.06153235410877332
+job_family,product,engagement_q03,2519,0.06351726875744343
+job_family,product,engagement_q04,2519,0.059944422389837236
+job_family,product,engagement_q05,2519,0.06470821754664549
+job_family,product,engagement_q06,2519,0.05835649067090115
+job_family,product,engagement_q07,2519,0.06470821754664549
+job_family,product,engagement_q08,2519,0.06232631996824137
+job_family,product,engagement_q09,2519,0.06073838824930528
+job_family,product,engagement_q10,2519,0.050416832076220726
+job_family,product,engagement_q11,2519,0.06629614926558158
+job_family,product,engagement_q12,2519,0.055577610162763004
+job_family,product,engagement_q13,2519,0.05795950774116713
+job_family,product,engagement_q14,2519,0.0611353711790393
+job_family,product,engagement_q15,2519,0.058753473600635174
+job_family,product,engagement_q16,2519,0.07066296149265582
+job_family,product,engagement_q17,2519,0.05835649067090115
+job_family,product,engagement_q18,2519,0.06828106391425169
+job_family,product,engagement_q19,2519,0.05518062723302898
+job_family,product,engagement_q20,2519,0.055577610162763004
+job_family,product,engagement_q21,2519,0.0611353711790393
+job_family,product,engagement_q22,2519,0.05795950774116713
+job_family,product,engagement_q23,2519,0.06073838824930528
+job_family,product,engagement_q24,2519,0.05319571258435887
+job_family,product,burnout_composite,2519,0.2989281460897181
+job_family,product,wellness_optin,2519,0.0
+job_family,product,wearable_hrv_mean_30d,2519,0.4247717348154029
+job_family,product,wearable_sleep_var_30d,2519,0.4283445811830091
+job_family,product,wearable_steps_mean_30d,2519,0.4219928543072648
+job_family,product,wearable_active_min_30d,2519,0.4223898372369988
+job_family,sales,age,2473,0.01940962393853619
+job_family,sales,tenure_months,2473,0.028710068742418115
+job_family,sales,ocean_E,2473,0.06550748079255965
+job_family,sales,ocean_N,2473,0.06833805095026284
+job_family,sales,ocean_A,2473,0.057015770319450064
+job_family,sales,ocean_C,2473,0.06389001213101496
+job_family,sales,ocean_O,2473,0.0715729882733522
+job_family,sales,engagement_q01,2473,0.18924383340072787
+job_family,sales,engagement_q02,2473,0.18479579458148
+job_family,sales,engagement_q03,2473,0.18681763040841085
+job_family,sales,engagement_q04,2473,0.18924383340072787
+job_family,sales,engagement_q05,2473,0.17953902143145978
+job_family,sales,engagement_q06,2473,0.18560452891225232
+job_family,sales,engagement_q07,2473,0.1940962393853619
+job_family,sales,engagement_q08,2473,0.17064294379296402
+job_family,sales,engagement_q09,2473,0.1928831378892034
+job_family,sales,engagement_q10,2473,0.17711281843914276
+job_family,sales,engagement_q11,2473,0.1746866154468257
+job_family,sales,engagement_q12,2473,0.1678123736352608
+job_family,sales,engagement_q13,2473,0.1884350990699555
+job_family,sales,engagement_q14,2473,0.16538617064294378
+job_family,sales,engagement_q15,2473,0.17549534977759806
+job_family,sales,engagement_q16,2473,0.17832591993530125
+job_family,sales,engagement_q17,2473,0.18115649009300444
+job_family,sales,engagement_q18,2473,0.16902547513141933
+job_family,sales,engagement_q19,2473,0.1888394662353417
+job_family,sales,engagement_q20,2473,0.17145167812373635
+job_family,sales,engagement_q21,2473,0.17670845127375656
+job_family,sales,engagement_q22,2473,0.1831783259199353
+job_family,sales,engagement_q23,2473,0.18075212292761828
+job_family,sales,engagement_q24,2473,0.17994338859684594
+job_family,sales,burnout_composite,2473,0.30610594419733117
+job_family,sales,wellness_optin,2473,0.0
+job_family,sales,wearable_hrv_mean_30d,2473,0.6037201779215527
+job_family,sales,wearable_sleep_var_30d,2473,0.594824100283057
+job_family,sales,wearable_steps_mean_30d,2473,0.6016983420946219
+job_family,sales,wearable_active_min_30d,2473,0.6008896077638496
+region,DE,age,6128,0.021050913838120106
+region,DE,tenure_months,6128,0.03345300261096606
+region,DE,ocean_E,6128,0.061194516971279374
+region,DE,ocean_N,6128,0.06298955613577023
+region,DE,ocean_A,6128,0.06380548302872063
+region,DE,ocean_C,6128,0.06331592689295039
+region,DE,ocean_O,6128,0.06168407310704961
+region,DE,engagement_q01,6128,0.08224543080939947
+region,DE,engagement_q02,6128,0.07620757180156658
+region,DE,engagement_q03,6128,0.0745757180156658
+region,DE,engagement_q04,6128,0.07620757180156658
+region,DE,engagement_q05,6128,0.07278067885117494
+region,DE,engagement_q06,6128,0.07490208877284596
+region,DE,engagement_q07,6128,0.08093994778067885
+region,DE,engagement_q08,6128,0.07800261096605744
+region,DE,engagement_q09,6128,0.07653394255874674
+region,DE,engagement_q10,6128,0.0731070496083551
+region,DE,engagement_q11,6128,0.07261749347258485
+region,DE,engagement_q12,6128,0.07947127937336815
+region,DE,engagement_q13,6128,0.07800261096605744
+region,DE,engagement_q14,6128,0.0737597911227154
+region,DE,engagement_q15,6128,0.07767624020887728
+region,DE,engagement_q16,6128,0.07881853785900783
+region,DE,engagement_q17,6128,0.07408616187989556
+region,DE,engagement_q18,6128,0.07751305483028721
+region,DE,engagement_q19,6128,0.06674281984334203
+region,DE,engagement_q20,6128,0.0714751958224543
+region,DE,engagement_q21,6128,0.07261749347258485
+region,DE,engagement_q22,6128,0.08110313315926893
+region,DE,engagement_q23,6128,0.07114882506527415
+region,DE,engagement_q24,6128,0.07114882506527415
+region,DE,burnout_composite,6128,0.30238250652741516
+region,DE,wellness_optin,6128,0.0
+region,DE,wearable_hrv_mean_30d,6128,0.5156657963446475
+region,DE,wearable_sleep_var_30d,6128,0.5150130548302873
+region,DE,wearable_steps_mean_30d,6128,0.5197454308093995
+region,DE,wearable_active_min_30d,6128,0.5161553524804178
+region,ES,age,2968,0.013814016172506738
+region,ES,tenure_months,2968,0.026617250673854446
+region,ES,ocean_E,2968,0.058288409703504046
+region,ES,ocean_N,2968,0.06064690026954178
+region,ES,ocean_A,2968,0.06637466307277629
+region,ES,ocean_C,2968,0.06839622641509434
+region,ES,ocean_O,2968,0.06536388140161725
+region,ES,engagement_q01,2968,0.07446091644204851
+region,ES,engagement_q02,2968,0.0747978436657682
+region,ES,engagement_q03,2968,0.07412398921832884
+region,ES,engagement_q04,2968,0.07446091644204851
+region,ES,engagement_q05,2968,0.07210242587601078
+region,ES,engagement_q06,2968,0.07142857142857142
+region,ES,engagement_q07,2968,0.07176549865229111
+region,ES,engagement_q08,2968,0.07715633423180593
+region,ES,engagement_q09,2968,0.0805256064690027
+region,ES,engagement_q10,2968,0.06502695417789757
+region,ES,engagement_q11,2968,0.08254716981132075
+region,ES,engagement_q12,2968,0.07580862533692723
+region,ES,engagement_q13,2968,0.07109164420485176
+region,ES,engagement_q14,2968,0.08086253369272237
+region,ES,engagement_q15,2968,0.07951482479784366
+region,ES,engagement_q16,2968,0.07513477088948788
+region,ES,engagement_q17,2968,0.079177897574124
+region,ES,engagement_q18,2968,0.07210242587601078
+region,ES,engagement_q19,2968,0.07345013477088949
+region,ES,engagement_q20,2968,0.07412398921832884
+region,ES,engagement_q21,2968,0.07243935309973046
+region,ES,engagement_q22,2968,0.07816711590296496
+region,ES,engagement_q23,2968,0.07513477088948788
+region,ES,engagement_q24,2968,0.07277628032345014
+region,ES,burnout_composite,2968,0.2921159029649596
+region,ES,wellness_optin,2968,0.0
+region,ES,wearable_hrv_mean_30d,2968,0.5165094339622641
+region,ES,wearable_sleep_var_30d,2968,0.5175202156334232
+region,ES,wearable_steps_mean_30d,2968,0.5192048517520216
+region,ES,wearable_active_min_30d,2968,0.5181940700808625
+region,FR,age,4936,0.022487844408427878
+region,FR,tenure_months,4936,0.028565640194489466
+region,FR,ocean_E,4936,0.06746353322528363
+region,FR,ocean_N,4936,0.05976499189627228
+region,FR,ocean_A,4936,0.05611831442463533
+region,FR,ocean_C,4936,0.07009724473257699
+region,FR,ocean_O,4936,0.0723257698541329
+region,FR,engagement_q01,4936,0.08184764991896272
+region,FR,engagement_q02,4936,0.07597244732576985
+region,FR,engagement_q03,4936,0.08103727714748785
+region,FR,engagement_q04,4936,0.0733387358184765
+region,FR,engagement_q05,4936,0.08387358184764993
+region,FR,engagement_q06,4936,0.07475688816855754
+region,FR,engagement_q07,4936,0.07880875202593193
+region,FR,engagement_q08,4936,0.07029983792544571
+region,FR,engagement_q09,4936,0.07354132901134522
+region,FR,engagement_q10,4936,0.07192058346839546
+region,FR,engagement_q11,4936,0.0753646677471637
+region,FR,engagement_q12,4936,0.0713128038897893
+region,FR,engagement_q13,4936,0.07698541329011345
+region,FR,engagement_q14,4936,0.07617504051863858
+region,FR,engagement_q15,4936,0.07313614262560778
+region,FR,engagement_q16,4936,0.08002431118314425
+region,FR,engagement_q17,4936,0.07678282009724473
+region,FR,engagement_q18,4936,0.07070502431118314
+region,FR,engagement_q19,4936,0.07658022690437602
+region,FR,engagement_q20,4936,0.07374392220421394
+region,FR,engagement_q21,4936,0.06989465153970827
+region,FR,engagement_q22,4936,0.06726094003241491
+region,FR,engagement_q23,4936,0.07698541329011345
+region,FR,engagement_q24,4936,0.0796191247974068
+region,FR,burnout_composite,4936,0.30733387358184766
+region,FR,wellness_optin,4936,0.0
+region,FR,wearable_hrv_mean_30d,4936,0.5259319286871961
+region,FR,wearable_sleep_var_30d,4936,0.5259319286871961
+region,FR,wearable_steps_mean_30d,4936,0.5239059967585089
+region,FR,wearable_active_min_30d,4936,0.5255267423014587
+region,NL,age,1998,0.017517517517517518
+region,NL,tenure_months,1998,0.02952952952952953
+region,NL,ocean_E,1998,0.07057057057057058
+region,NL,ocean_N,1998,0.06506506506506507
+region,NL,ocean_A,1998,0.06806806806806807
+region,NL,ocean_C,1998,0.06806806806806807
+region,NL,ocean_O,1998,0.06856856856856856
+region,NL,engagement_q01,1998,0.07707707707707707
+region,NL,engagement_q02,1998,0.06806806806806807
+region,NL,engagement_q03,1998,0.08458458458458458
+region,NL,engagement_q04,1998,0.06756756756756757
+region,NL,engagement_q05,1998,0.07257257257257257
+region,NL,engagement_q06,1998,0.07157157157157157
+region,NL,engagement_q07,1998,0.08458458458458458
+region,NL,engagement_q08,1998,0.07107107107107107
+region,NL,engagement_q09,1998,0.08358358358358359
+region,NL,engagement_q10,1998,0.07007007007007007
+region,NL,engagement_q11,1998,0.07657657657657657
+region,NL,engagement_q12,1998,0.07057057057057058
+region,NL,engagement_q13,1998,0.07657657657657657
+region,NL,engagement_q14,1998,0.07357357357357357
+region,NL,engagement_q15,1998,0.06556556556556556
+region,NL,engagement_q16,1998,0.07857857857857858
+region,NL,engagement_q17,1998,0.07707707707707707
+region,NL,engagement_q18,1998,0.06006006006006006
+region,NL,engagement_q19,1998,0.06656656656656657
+region,NL,engagement_q20,1998,0.06306306306306306
+region,NL,engagement_q21,1998,0.06856856856856856
+region,NL,engagement_q22,1998,0.07157157157157157
+region,NL,engagement_q23,1998,0.07157157157157157
+region,NL,engagement_q24,1998,0.07807807807807808
+region,NL,burnout_composite,1998,0.3078078078078078
+region,NL,wellness_optin,1998,0.0
+region,NL,wearable_hrv_mean_30d,1998,0.515015015015015
+region,NL,wearable_sleep_var_30d,1998,0.511011011011011
+region,NL,wearable_steps_mean_30d,1998,0.5065065065065065
+region,NL,wearable_active_min_30d,1998,0.513013013013013
+region,PL,age,3970,0.01712846347607053
+region,PL,tenure_months,3970,0.03198992443324937
+region,PL,ocean_E,3970,0.06221662468513854
+region,PL,ocean_N,3970,0.06649874055415617
+region,PL,ocean_A,3970,0.06750629722921915
+region,PL,ocean_C,3970,0.06322418136020151
+region,PL,ocean_O,3970,0.05869017632241814
+region,PL,engagement_q01,3970,0.07178841309823678
+region,PL,engagement_q02,3970,0.07405541561712846
+region,PL,engagement_q03,3970,0.07884130982367758
+region,PL,engagement_q04,3970,0.0783375314861461
+region,PL,engagement_q05,3970,0.07506297229219143
+region,PL,engagement_q06,3970,0.07128463476070529
+region,PL,engagement_q07,3970,0.07884130982367758
+region,PL,engagement_q08,3970,0.06826196473551638
+region,PL,engagement_q09,3970,0.0743073047858942
+region,PL,engagement_q10,3970,0.07052896725440806
+region,PL,engagement_q11,3970,0.07002518891687658
+region,PL,engagement_q12,3970,0.07808564231738035
+region,PL,engagement_q13,3970,0.07329974811083123
+region,PL,engagement_q14,3970,0.07128463476070529
+region,PL,engagement_q15,3970,0.07455919395465994
+region,PL,engagement_q16,3970,0.07909319899244333
+region,PL,engagement_q17,3970,0.06750629722921915
+region,PL,engagement_q18,3970,0.0743073047858942
+region,PL,engagement_q19,3970,0.07581863979848867
+region,PL,engagement_q20,3970,0.0765743073047859
+region,PL,engagement_q21,3970,0.07758186397984887
+region,PL,engagement_q22,3970,0.07581863979848867
+region,PL,engagement_q23,3970,0.07455919395465994
+region,PL,engagement_q24,3970,0.06826196473551638
+region,PL,burnout_composite,3970,0.3075566750629723
+region,PL,wellness_optin,3970,0.0
+region,PL,wearable_hrv_mean_30d,3970,0.5289672544080605
+region,PL,wearable_sleep_var_30d,3970,0.5229219143576826
+region,PL,wearable_steps_mean_30d,3970,0.52544080604534
+region,PL,wearable_active_min_30d,3970,0.5231738035264484
+wellness_optin,False,age,9902,0.020197939810139367
+wellness_optin,False,tenure_months,9902,0.030700868511411836
+wellness_optin,False,ocean_E,9902,0.0639264794990911
+wellness_optin,False,ocean_N,9902,0.06523934558675015
+wellness_optin,False,ocean_A,9902,0.061906685518077154
+wellness_optin,False,ocean_C,9902,0.06614825287820643
+wellness_optin,False,ocean_O,9902,0.06372450010098969
+wellness_optin,False,engagement_q01,9902,0.07927691375479701
+wellness_optin,False,engagement_q02,9902,0.07533831549181984
+wellness_optin,False,engagement_q03,9902,0.08159967683296304
+wellness_optin,False,engagement_q04,9902,0.07735810947283377
+wellness_optin,False,engagement_q05,9902,0.07705514037568167
+wellness_optin,False,engagement_q06,9902,0.0734195112098566
+wellness_optin,False,engagement_q07,9902,0.08321551201777419
+wellness_optin,False,engagement_q08,9902,0.07604524338517471
+wellness_optin,False,engagement_q09,9902,0.08119571803676025
+wellness_optin,False,engagement_q10,9902,0.07604524338517471
+wellness_optin,False,engagement_q11,9902,0.07836800646334074
+wellness_optin,False,engagement_q12,9902,0.07907493435669562
+wellness_optin,False,engagement_q13,9902,0.07705514037568167
+wellness_optin,False,engagement_q14,9902,0.07513633609371843
+wellness_optin,False,engagement_q15,9902,0.07856998586144213
+wellness_optin,False,engagement_q16,9902,0.08109472833770956
+wellness_optin,False,engagement_q17,9902,0.07846899616239143
+wellness_optin,False,engagement_q18,9902,0.0734195112098566
+wellness_optin,False,engagement_q19,9902,0.07483336699656636
+wellness_optin,False,engagement_q20,9902,0.07604524338517471
+wellness_optin,False,engagement_q21,9902,0.07574227428802262
+wellness_optin,False,engagement_q22,9902,0.07816602706523934
+wellness_optin,False,engagement_q23,9902,0.07826701676429004
+wellness_optin,False,engagement_q24,9902,0.07766107856998586
+wellness_optin,False,burnout_composite,9902,0.30448394263785095
+wellness_optin,False,wellness_optin,9902,0.0
+wellness_optin,False,wearable_hrv_mean_30d,9902,1.0
+wellness_optin,False,wearable_sleep_var_30d,9902,1.0
+wellness_optin,False,wearable_steps_mean_30d,9902,1.0
+wellness_optin,False,wearable_active_min_30d,9902,1.0
+wellness_optin,True,age,10098,0.018221429986135868
+wellness_optin,True,tenure_months,10098,0.03040205981382452
+wellness_optin,True,ocean_E,10098,0.0629827688651218
+wellness_optin,True,ocean_N,10098,0.060308972073677955
+wellness_optin,True,ocean_A,10098,0.06496335908100614
+wellness_optin,True,ocean_C,10098,0.06625074272133095
+wellness_optin,True,ocean_O,10098,0.06615171321053674
+wellness_optin,True,engagement_q01,10098,0.07754010695187166
+wellness_optin,True,engagement_q02,10098,0.07407407407407407
+wellness_optin,True,engagement_q03,10098,0.07437116260645672
+wellness_optin,True,engagement_q04,10098,0.07229154287977817
+wellness_optin,True,engagement_q05,10098,0.07466825113883938
+wellness_optin,True,engagement_q06,10098,0.07318280847692613
+wellness_optin,True,engagement_q07,10098,0.0748663101604278
+wellness_optin,True,engagement_q08,10098,0.0707070707070707
+wellness_optin,True,engagement_q09,10098,0.07219251336898395
+wellness_optin,True,engagement_q10,10098,0.06565656565656566
+wellness_optin,True,engagement_q11,10098,0.07100415923945336
+wellness_optin,True,engagement_q12,10098,0.07248960190136661
+wellness_optin,True,engagement_q13,10098,0.07427213309566251
+wellness_optin,True,engagement_q14,10098,0.07466825113883938
+wellness_optin,True,engagement_q15,10098,0.07149930679342444
+wellness_optin,True,engagement_q16,10098,0.07615369380075263
+wellness_optin,True,engagement_q17,10098,0.07060804119627649
+wellness_optin,True,engagement_q18,10098,0.0718954248366013
+wellness_optin,True,engagement_q19,10098,0.06912259853436324
+wellness_optin,True,engagement_q20,10098,0.06922162804515745
+wellness_optin,True,engagement_q21,10098,0.06932065755595167
+wellness_optin,True,engagement_q22,10098,0.0723905723905724
+wellness_optin,True,engagement_q23,10098,0.06961774608833432
+wellness_optin,True,engagement_q24,10098,0.06961774608833432
+wellness_optin,True,burnout_composite,10098,0.3028322440087146
+wellness_optin,True,wellness_optin,10098,0.0
+wellness_optin,True,wearable_hrv_mean_30d,10098,0.0510992275698158
+wellness_optin,True,wearable_sleep_var_30d,10098,0.04783125371360666
+wellness_optin,True,wearable_steps_mean_30d,10098,0.05030699148346207
+wellness_optin,True,wearable_active_min_30d,10098,0.049019607843137254

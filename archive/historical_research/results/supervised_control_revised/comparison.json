@@ -1,0 +1,33 @@
+{
+  "log_loss": {
+    "delta": 0.0002976254167959195,
+    "ci95": [
+      -0.0013203973828167293,
+      0.001901467334872243
+    ],
+    "ci98_333": [
+      -0.0016947663498256167,
+      0.0022440611753523102
+    ]
+  },
+  "brier": {
+    "delta": 0.0006133981028315383,
+    "ci95": [
+      -0.0002427166753293203,
+      0.0014650558968289367
+    ],
+    "ci98_333": [
+      -0.0004399672352858452,
+      0.0016449878266629936
+    ]
+  },
+  "macro_f1": {
+    "delta": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ],
+    "reason": "Positive scalar scaling preserves argmax exactly"
+  },
+  "caveat": "Paired employee bootstrap conditional on saved fits. No fresh confirmation or full refit uncertainty. Log loss is the sole new primary metric."
+}

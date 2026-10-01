@@ -1,0 +1,11 @@
+{
+  "threshold": 0.3,
+  "threshold_status": "Fixed shadow diagnostic; requires prospective validation and cost/capacity approval",
+  "capacity_limit": 0.2,
+  "observed_flag_rate": 0.6491862567811935,
+  "within_capacity": false,
+  "near_threshold_events": 1007,
+  "near_threshold_people": 900,
+  "alternatives": "No alternative ranking or automatic reassignment",
+  "approved_for_decisions": false
+}

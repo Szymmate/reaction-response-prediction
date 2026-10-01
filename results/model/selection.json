@@ -1,0 +1,213 @@
+{
+  "selected": "personality_no_age",
+  "best_eligible_log_loss": "personality",
+  "research_best_log_loss": "wellness",
+  "margins": {
+    "log_loss": 0.01,
+    "brier": 0.005
+  },
+  "candidates": [
+    {
+      "arm": "prior",
+      "within_development_margin": false,
+      "comparison": {
+        "log_loss": {
+          "delta": 0.15449928094974147,
+          "ci95": [
+            0.13712155867209297,
+            0.1719879989791044
+          ],
+          "ci98_333": [
+            0.13343137775046632,
+            0.1765378885509767
+          ]
+        },
+        "brier": {
+          "delta": 0.08216964804088668,
+          "ci95": [
+            0.07315653031853453,
+            0.09138080099144269
+          ],
+          "ci98_333": [
+            0.07170104066643303,
+            0.09344702788209118
+          ]
+        }
+      }
+    },
+    {
+      "arm": "context",
+      "within_development_margin": false,
+      "comparison": {
+        "log_loss": {
+          "delta": 0.15684444952491028,
+          "ci95": [
+            0.13934083872940942,
+            0.17464753024361668
+          ],
+          "ci98_333": [
+            0.13588887998313184,
+            0.1798779990272515
+          ]
+        },
+        "brier": {
+          "delta": 0.08342887537096522,
+          "ci95": [
+            0.07419730393834185,
+            0.09289494362414154
+          ],
+          "ci98_333": [
+            0.07237428903462387,
+            0.09512998044610607
+          ]
+        }
+      }
+    },
+    {
+      "arm": "demographics",
+      "within_development_margin": false,
+      "comparison": {
+        "log_loss": {
+          "delta": 0.15639189696919426,
+          "ci95": [
+            0.1397634843989384,
+            0.17423321880054424
+          ],
+          "ci98_333": [
+            0.1363377727463309,
+            0.1783325055777285
+          ]
+        },
+        "brier": {
+          "delta": 0.08275991674551059,
+          "ci95": [
+            0.07389341481008248,
+            0.09235031986207265
+          ],
+          "ci98_333": [
+            0.07164687475595494,
+            0.09431213732616323
+          ]
+        }
+      }
+    },
+    {
+      "arm": "questionnaire",
+      "within_development_margin": false,
+      "comparison": {
+        "log_loss": {
+          "delta": 0.0555240001830625,
+          "ci95": [
+            0.0439849825410093,
+            0.06645318928364309
+          ],
+          "ci98_333": [
+            0.04177801080002634,
+            0.0694589351297783
+          ]
+        },
+        "brier": {
+          "delta": 0.028885547038871372,
+          "ci95": [
+            0.022920954556253804,
+            0.03480127914901429
+          ],
+          "ci98_333": [
+            0.021142220034152448,
+            0.03608802638649987
+          ]
+        }
+      }
+    },
+    {
+      "arm": "personality_no_age",
+      "within_development_margin": true,
+      "comparison": {
+        "log_loss": {
+          "delta": 0.001429245504039447,
+          "ci95": [
+            -0.001376970259237269,
+            0.004394990323849514
+          ],
+          "ci98_333": [
+            -0.0019200761490208277,
+            0.004953209754859857
+          ]
+        },
+        "brier": {
+          "delta": 0.0013089882917141434,
+          "ci95": [
+            -7.207826575222324e-05,
+            0.002694902290063182
+          ],
+          "ci98_333": [
+            -0.00024496298028102654,
+            0.0029708898326062283
+          ]
+        }
+      }
+    },
+    {
+      "arm": "personality",
+      "within_development_margin": true,
+      "comparison": {
+        "log_loss": {
+          "delta": 0.0,
+          "ci95": [
+            0.0,
+            0.0
+          ],
+          "ci98_333": [
+            0.0,
+            0.0
+          ]
+        },
+        "brier": {
+          "delta": 0.0,
+          "ci95": [
+            0.0,
+            0.0
+          ],
+          "ci98_333": [
+            0.0,
+            0.0
+          ]
+        }
+      }
+    },
+    {
+      "arm": "logistic",
+      "within_development_margin": false,
+      "comparison": {
+        "log_loss": {
+          "delta": 0.017182861866086065,
+          "ci95": [
+            0.006894888232176485,
+            0.026579550359354644
+          ],
+          "ci98_333": [
+            0.004488182266026319,
+            0.02864458818309867
+          ]
+        },
+        "brier": {
+          "delta": 0.009788586103453886,
+          "ci95": [
+            0.004845373089678211,
+            0.014316786931137217
+          ],
+          "ci98_333": [
+            0.003982531460482795,
+            0.01569045053667116
+          ]
+        }
+      }
+    }
+  ],
+  "selection_status": "development-only; post-selection scores are optimistic, not a release test",
+  "excluded_from_artifact_selection": {
+    "wellness": "purpose/lawful basis and added-value review unresolved",
+    "anonymous_context": "definitions and feature-as-of timing unresolved"
+  },
+  "explanation": "Prefer the lowest declared feature-burden rank whose paired upper interval is within both margins of the best eligible log-loss model. Margins are engineering proposals, not approved risk tolerances."
+}

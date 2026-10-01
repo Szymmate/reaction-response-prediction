@@ -1,0 +1,9 @@
+{
+  "seed": 20261001,
+  "selected_model_predictions_reproduced_exactly": true,
+  "artifact_reselected": false,
+  "calibration_comparable": true,
+  "historical_feature_contract": "includes age and wellness",
+  "followup_feature_contract": "excludes age and wellness",
+  "labeled_events": 3318
+}
